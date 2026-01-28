@@ -30,29 +30,29 @@ Student receives notifications until the issue is resolved.
 All issues are logged for accountability and analysis.
 
 📂 Repo Structure
-DormFix/
+DormFix/<br>
 │
 ├── Student_App/ <br>
 │   ├── issue_report/<br>
 │   ├── uploads/<br>
 │   └── notifications/<br>
 │
-├── Admin_Dashboard/    
-│   ├── issue_tracker/
-│   ├── analytics/
-│   └── staff_assignment/
+├── Admin_Dashboard/<br>    
+│   ├── issue_tracker/<br>
+│   ├── analytics/<br>
+│   └── staff_assignment/<br>
 │
-├── Backend/             
-│   ├── auth/
-│   ├── issues/
-│   └── users/
+├── Backend/<br>             
+│   ├── auth/<br>
+│   ├── issues/<br>
+│   └── users/<br>
 │
-├── Database/            
+├── Database/<br>            
 │
-├── Docs/                
+├── Docs/<br>                
 │
-├── LICENSE              
-└── README.md             
+├── LICENSE<br>              
+└── README.md<br>             
 
 🔔 Issue Categories Supported
 
@@ -115,9 +115,9 @@ Improve student satisfaction & safety
 
 👥 Team Members 
 
-Naresh Kumar N  – Full Stack & System Design 💻
-N S Manish Bhalajy – Backend & Database 🗄
-Nevan RG – UI/UX & Student Experience 🎨
+Naresh Kumar N  – Full Stack & System Design 💻<br>
+N S Manish Bhalajy – Backend & Database 🗄<br>
+Nevan RG – UI/UX & Student Experience 🎨<br>
 
 🔥 Hostel life shouldn’t be about chasing wardens.
 With DormFix, problems get fixed — fast
