@@ -32,27 +32,27 @@ All issues are logged for accountability and analysis.
 📂 Repo Structure
 DormFix/
 │
-├── Student_App/          # Student-facing web/mobile interface
+├── Student_App/          
 │   ├── issue_report/
 │   ├── uploads/
 │   └── notifications/
 │
-├── Admin_Dashboard/      # Admin & warden control panel
+├── Admin_Dashboard/    
 │   ├── issue_tracker/
 │   ├── analytics/
 │   └── staff_assignment/
 │
-├── Backend/              # API & business logic
+├── Backend/             
 │   ├── auth/
 │   ├── issues/
 │   └── users/
 │
-├── Database/             # Schema & migrations
+├── Database/            
 │
-├── Docs/                 # Screenshots, flowcharts, pitch deck
+├── Docs/                
 │
-├── LICENSE               # MIT License
-└── README.md             # You are reading this
+├── LICENSE              
+└── README.md             
 
 🔔 Issue Categories Supported
 
@@ -79,8 +79,8 @@ Backend/ → Authentication, notifications, workflows
 
 🔗 Demo Links
 
-🖥 Student Portal: [Coming Soon]
-📊 Admin Dashboard: [Coming Soon]
+🖥 Student Portal: 
+📊 Admin Dashboard: 
 
 🛠 Built With
 
