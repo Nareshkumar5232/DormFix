@@ -2,8 +2,8 @@
 
 A smart hostel management system where students report issues instantly, admins resolve them efficiently, and every action is tracked transparently.
 
-🎮 Demo (Prototype): [Coming Soon – Web Dashboard]
-📊 Admin Panel Preview: [Placeholder Link]
+🎮 Demo (Prototype): 
+📊 Admin Panel Preview: 
 
 ⚠️ Note: DormFix is optimized for web & mobile-first usage to ensure quick issue reporting even on low bandwidth.
 
@@ -32,10 +32,10 @@ All issues are logged for accountability and analysis.
 📂 Repo Structure
 DormFix/
 │
-├── Student_App/          
-│   ├── issue_report/
-│   ├── uploads/
-│   └── notifications/
+├── Student_App/ <br>
+│   ├── issue_report/<br>
+│   ├── uploads/<br>
+│   └── notifications/<br>
 │
 ├── Admin_Dashboard/    
 │   ├── issue_tracker/
